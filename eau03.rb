@@ -1,4 +1,4 @@
-# Arguments à l'envers
+# Suite de fibonacci
 
 # Fonctions utilisées
 def is_numeric(str)
