@@ -1,4 +1,4 @@
-# Tri à bulle
+# Tri par selection
 
 # Fonctions utilisées
 def array_print(array)
